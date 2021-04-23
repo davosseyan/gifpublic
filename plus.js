@@ -12,7 +12,7 @@ client.on('ready', async () => {
     client.appInfo = await client.fetchApplication();
   }, 600);
   
- client.user.setActivity(`Davos Up`, { type:"WATHING" })
+ client.user.setActivity(`Type: ${PREFIX}help - Davos Up`, { type: "LISTENING"})
   console.log("[BOT] Kullanıma Hazır!")
 });
 
