@@ -29,6 +29,6 @@ guildOnly: true
 
 module.exports.help = {
 name: 's',
-description: 'dev jano',
-usage: 'dev jano'
+description: 'dev Davos',
+usage: 'dev Davos'
 };
