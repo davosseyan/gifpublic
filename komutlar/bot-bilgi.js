@@ -32,7 +32,7 @@ exports.run = async (bot, message, args) => {
   
   .addField("**Node.JS**", `${process.version}`, true)
   
-  .addField("**developer bot**", "<@681553671364018196>")
+  .addField("**developer bot**", "<@743777558792765481>")
   
   return message.channel.send(istatistikler);
   };
