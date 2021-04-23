@@ -22,7 +22,7 @@ const embed = new Discord.MessageEmbed()
 **[ invite ]**
 **[ click here ](https://discord.com/api/oauth2/authorize?client_id=778276774320275487&permissions=8&scope=bot)** 
 **[ support ]**
-**[ click here ](https://discord.gg/3wykSpqjZq)**`)
+**[ click here ](https://discord.gg/583jtcdb5b)**`)
     
 message.channel.send({embed});
 }
